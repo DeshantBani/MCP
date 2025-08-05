@@ -1,0 +1,13 @@
+mcp
+typing
+fastmcp
+markdownify
+readability
+pathlib
+
+#learning part dependencies
+mcp[cli]
+python-dotenv
+openai
+ipykernel
+httpx
