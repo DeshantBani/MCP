@@ -12,8 +12,8 @@ from pathlib import Path
 import fitz
 import logging
 
-TOKEN = "ba12cec05136"
-MY_NUMBER = "919354532389"  # Insert your number {91}{Your number}
+TOKEN = ""
+MY_NUMBER = ""  # Insert your number {91}{Your number}
 
 
 class RichToolDescription(BaseModel):
